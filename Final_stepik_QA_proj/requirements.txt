@@ -1,3 +1,6 @@
 pytest==7.1.2
 selenium==4.4.3
+<<<<<<< HEAD
 
+=======
+>>>>>>> 2c391efa69c1eccc5fd991c73b6601c79d87bfd6
